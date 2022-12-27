@@ -1,4 +1,6 @@
 h1{
    		color: #0092ee;
    		text-align: center;
+   		border: 1px solid black;
+   		border-radius: 2px;
    	}
